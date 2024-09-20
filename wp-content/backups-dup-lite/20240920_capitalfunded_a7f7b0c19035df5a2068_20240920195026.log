@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20 de September de 2024 19:50
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.10.2
+WORDPRESS:	6.6.2
+PHP INFO:	8.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 48MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240920_capitalfunded_a7f7b0c19035df5a2068_20240920195026_database.sql
+SQL FILE SIZE: 11.86MB (12434676)
+SQL FILE TIME: 2024-09-20 19:51:13
+SQL RUNTIME: 29.10 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/capital
+ARCHIVE FILE: 20240920_capitalfunded_a7f7b0c19035df5a2068_20240920195026_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	129.58MB
+STATS:	Dirs 868 | Files 5,458 | Total 6,326
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 53.83MB
+ARCHIVE RUNTIME: 74.63 sec.
+MEMORY STACK: 50MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 11.86MB
+INSTALLER FILE: 94.82KB
+ARCHIVE FILE: 53.83MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 7,065
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 7,066
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 74.64 sec.
+PEAK PHP MEMORY USED: 50MB
+DONE PROCESSING => 20240920_capitalfunded 2024-09-20 19:51:58
+
